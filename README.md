@@ -1,13 +1,16 @@
 <div align="center">
+    <!-- 상단 배너 -->
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&text=Hello%20World!&animation=fadeIn&fontColor=000000&fontSize=60" />
 </div>
 
 <div align="center">
     <br>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=282D33&center=true&vCenter=true&width=435&lines=꾸준히+성장하는+개발자;Java+and+Spring+Boot+Developer;React+%26+TypeScript+Enthusiast" alt="Typing SVG" />
+    <!-- 타이핑 효과 (한글 지원을 위해 Nanum Gothic, 한글 URL 인코딩 최적화) -->
+    <img src="https://readme-typing-svg.demolab.com?font=Nanum+Gothic&weight=600&size=20&pause=1000&color=282D33&center=true&vCenter=true&width=450&lines=%EA%BF%A8%EC%A4%80%ED%9E%88+%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4%EF%B8%8F;Java+and+Spring+Boot+Developer;React+%26+TypeScript+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
+    <!-- 기술 스택 -->
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align="center"> 
         <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white">
@@ -35,5 +38,5 @@
 
 <div align="center">
     <br>
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPSJ-creator&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+    <img src="https://hitscounter.dev/badge?url=https%3A%2F%2Fgithub.com%2FPSJ-creator" alt="Hits">
 </div>
