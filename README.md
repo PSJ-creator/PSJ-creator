@@ -5,8 +5,12 @@
 
 <div align="center">
     <br>
-    <!-- 타이핑 효과 (한글 깨짐을 방지하기 위해 일반 Gothic 폰트로 수정 및 한글 문구를 안전하게 재인코딩) -->
-    <img src="https://readme-typing-svg.demolab.com?font=Gothic&weight=600&size=20&pause=1000&color=282D33&center=true&vCenter=true&width=450&lines=%EA%BE%B8%EC%A4%80%ED%9E%88+%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4%F0%9F%9A%80;Java+and+Spring+Boot+Developer;React+%26+TypeScript+Enthusiast" alt="Typing SVG" />
+    <!-- 타이핑 효과 (다크/라이트 모드에 따라 글자색 자동 전환) -->
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gothic&weight=600&size=20&pause=1000&color=E6EDF3&center=true&vCenter=true&width=450&lines=%EA%BE%B8%EC%A4%80%ED%9E%88+%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4;Java+and+Spring+Boot+Developer;React+%26+TypeScript+Enthusiast">
+        <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gothic&weight=600&size=20&pause=1000&color=282D33&center=true&vCenter=true&width=450&lines=%EA%BE%B8%EC%A4%80%ED%9E%88+%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4;Java+and+Spring+Boot+Developer;React+%26+TypeScript+Enthusiast">
+        <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gothic&weight=600&size=20&pause=1000&color=282D33&center=true&vCenter=true&width=450&lines=%EA%BE%B8%EC%A4%80%ED%9E%88+%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4;Java+and+Spring+Boot+Developer;React+%26+TypeScript+Enthusiast">
+    </picture>
 </div>
 
 <div align="center">
@@ -32,15 +36,15 @@
     <!-- 깃허브 통계 -->
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 통계 </h2> 
     <div align="center"> 
-        <!-- PSJ-creator 계정의 종합 데이터 통계 -->
-        <img src="https://github-readme-stats.vercel.app/api?username=PSJ-creator&custom_title=PSJ-creator's%20GitHub%20Stats&title_color=000000&text_color=000000&bg_color=transparent&hide_border=true&cache_seconds=0" /> 
-        <!-- PSJ-creator 계정의 많이 쓴 언어 통계 -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PSJ-creator&layout=compact&title_color=000000&text_color=000000&bg_color=transparent&hide_border=true&hide=visual%20basic%20.net&cache_seconds=0" /> 
+        <!-- PSJ-creator 계정의 종합 데이터 통계 (테마 자동 맞춤 적용) -->
+        <img src="https://github-readme-stats.vercel.app/api?username=PSJ-creator&custom_title=PSJ-creator's%20GitHub%20Stats&hide_border=true&cache_seconds=0" /> 
+        <!-- PSJ-creator 계정의 많이 쓴 언어 통계 (Visual Basic 제외 및 테마 자동 맞춤 적용) -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PSJ-creator&layout=compact&hide_border=true&hide=visual%20basic%20.net&cache_seconds=0" /> 
     </div> 
 </div>
 
 <div align="center">
-    <!-- 방문자 수 조회 카운터 (가장 안정적인 hits.dwyl.com 서비스 기반으로 복구) -->
+    <!-- 방문자 수 조회 카운터 -->
     <br>
     <img src="https://hits.dwyl.com/PSJ-creator/PSJ-creator.svg" alt="Hits">
 </div>
