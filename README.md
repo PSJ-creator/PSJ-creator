@@ -28,9 +28,10 @@
 <div align="center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 통계 </h2> 
     <div align="center"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=PSJ-creator&custom_title=PSJ-creator's%20GitHub%20Stats&hide_border=true&cache_seconds=0" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psj&layout=compact&hide_border=true&hide=visual%20basic%20.net&cache_seconds=0" /> 
+        <img src="https://github-readme-stats.vercel.app/api?username=PSJ-creator&custom_title=PSJ-creator's%20GitHub%20Stats&hide_border=true&v=1" /> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PSJ-creator&layout=compact&hide_border=true&hide=visual%20basic%20.net&v=1" /> 
     </div> 
+</div>
 </div>
 
 <div align="center">
