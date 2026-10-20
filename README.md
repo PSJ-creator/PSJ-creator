@@ -64,7 +64,7 @@
 ---
 
 ### 🔗 Tech Blog
-<a href="https://sepia-error-7c9.notion.site/Spring-AI-3ad3242c59da8059b9fce33700cf7ca3?source=copy_link"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 
 ---
 
