@@ -67,7 +67,11 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 
 ---
+### Also I Am.
+- 🚴‍♂️ Cycle riding (국토종주 완주)
+- ⛳ Golf (playing screen golf)
 
+---
 <div align="center">
   <b>The End</b><br>
   어제보다 더 나은 개발자를 향합니다
