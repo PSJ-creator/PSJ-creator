@@ -68,8 +68,8 @@
 
 ---
 ### Also I Am.
-- 🚴‍♂️ Cycle riding (국토종주 완주)
-- ⛳ Golf (playing screen golf)
+- 🚴‍♂️ Road Cycling (국토종주 완주)
+- ⛳ Golf (Screen golf)
 
 ---
 <div align="center">
